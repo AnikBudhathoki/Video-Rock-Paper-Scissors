@@ -37,6 +37,3 @@ You can install the dependencies with:
 
 ```bash
 pip install opencv-python mediapipe
-
-
-\
